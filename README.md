@@ -11,12 +11,21 @@
 - [HTML]
 
 ## Contact
-| -------- | ---------------------------------------------- |
-| Gmail:   | [CastroDanielAdr@gmail.com] [PlGm]             |
-| GitHub   | [https://github.com/Daniel-Castro-90] [PlGh]   |
-| LinkedIn | [https://linkedin.com/in/danielcastroo] [PlLi] |
+| Contact | URL |
+| ------ | ------ |
+| Gmail: | [Email] me |
+| GitHub |  View my [Profile] |
+| LinkedIn |  My [Professional Social Media] |
+| Website | www.LabelDev.com.ar |
 
 ## License
 
 **This code is released under an open-source license that allows anyone to use and distribute it freely.**
+
+
+[HTML]: https://developer.mozilla.org/es/docs/Web/HTML
+
+[Email]: <mailto:CastroDanielAdr@gmail.com>
+[Profile]: <https://github.com/Daniel-Castro-90>
+[Professional Social Media]: <https://linkedin.com/in/danielcastroo>
 
